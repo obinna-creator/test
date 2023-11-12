@@ -1,0 +1,4 @@
+-fineboy 
+-smartboy
+-wiseboy
+-intelligentboy
